@@ -299,8 +299,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output  :
 ## Without obsticles  :
-![BP](https://github.com/sanjay5656/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/115128955/982b8de4-c324-409d-ad8c-42a596871197)
+![BP](https://github.com/sanjay5656/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/115128955/e1f91bb0-128c-4992-ae24-7eaab9088dd6)
 ## With obsticles :
-![WhatsApp Image 2023-08-26 at 9 07 43 PM](https://github.com/sanjay5656/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/115128955/b65d4c53-9621-4fed-8b50-126dccbabcfd)
+![AP](https://github.com/sanjay5656/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/115128955/9a447da4-c0c0-4696-962d-820d003cfaf4)
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
